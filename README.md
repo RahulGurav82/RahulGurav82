@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **NextJS13**
 
-- 👨‍💻 All of my projects are available at [https://rahul-portfolio-pd4j.onrender.com](https://rahul-portfolio-pd4j.onrender.com)
+- 👨‍💻 All of my projects are available at [https://rahul-portfolio-pd4j.onrender.com](https://portfolio-teal-omega-63.vercel.app/)
 
 - 💬 Ask me about **react, Nodejs, MongoDB**
 
