@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **NextJS**
 
-- 👨‍💻 All of my projects are available at [https://portfolio-teal-omega-63.vercel.app/](https://portfolio-teal-omega-63.vercel.app/)
+- 👨‍💻 All of my projects are available at [https://rahul-gurav.vercel.app/](https://rahul-gurav.vercel.app/)
 
 - 💬 Ask me about **React, Nodejs, MongoDB**
 
